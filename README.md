@@ -1,4 +1,4 @@
-## AI-based-Stress-Management-Healthcare-Program
+## AI based Stress Management Healthcare Program
 #### 한국지능정보사회진흥원 인공지능학습용데이터 활용 아이디어 공모전_입상
 #### 이지윤 안애솔 박지원    
 
