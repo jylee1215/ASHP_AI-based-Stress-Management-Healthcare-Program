@@ -27,3 +27,8 @@
 ![img](https://lh3.googleusercontent.com/MSeJNPBZtKcepQJ-VlxTl8ikV2gjujiJCnSOWUc7pT-p2fjDf0tXKqK2uWSYPqR2_wuzunMlJPh8LAs9vzfm9KaRdbcBPIOV-ZMfSC16nsxUZc9AMHe0Kl3QN0W6EQlMSAaU7OQ)
 
 **스트레스의 평가와 관리는 “스푸리 (SPOORI)” 라고 하는 챗봇 캐릭터와 대화하는 방식으로 사용자가 친숙하고 지루하지 않게 매일매일 자신의 스트레스 수준과 감정 수준을 기록할 수 있도록 도와줌. 서비스 진행과 함께 영상 감정 일기의 사용자의 발화를 분석하여 그에 대응하는 챗봇 답변을 할 수 있음.**
+
+- 사용 데이터 및 분석 방법
+
+![img](https://lh3.googleusercontent.com/N8T02jXH8yEvp8a1pW8HN6b-JsdC_BhRg2ooWpAraiMs7du2KxM0XVm5gGmYne7fonvQP1p8uODMV-1G7oZw2lsULfIYQqL9Q7KiCrpZVnqrplqMXo81Px4aofXhBDiPOsxKNgI)
+
